@@ -24,7 +24,7 @@ Hi, I'm Nicholas and this is my GitHub account where I will be sharing projects 
   
 <details>
 <summary>How I've used my skills</summary>
-Whilst at Bournemouth University I have edited the video and audio for many projects. You can view them all here https://vimeo.com/user97668796. 
+Whilst at Bournemouth University I have edited the video and audio for many projects. You can view them all here https://triceratops-sailfish-hwd4.squarespace.com/nicholas/weaks/videos/unique/bftp/2024/091999. 
 
 I am currently undertaking a Skills Bootcamp in Software development where I have already begun to code Python files for tasks which can also be viewed in their own repositories. <!-- Continue to add successful tasks to GitHub -->
 I have also used my own digital marketing and public relations skills to help focus the ideas behind the very same projects that I edited as mentioned above.
